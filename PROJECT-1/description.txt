@@ -1,1 +1,10 @@
 This is my HTML and CSS based project.
+Features added to this project:
+i) webpage scrollbar customization from default to thin.
+ii) 3 div block element taken side by side to the whole viewport.
+iii) on left and right div block two images taken in each.
+iv) images border will be provided and later the corners are cicrcled.
+v) in the middle div block all the headings and paragraphs are added. Then all the text of that heading and paragraph are alligned at the center.
+vi) backgroound color gradient added.
+
+all this based on div operation..............
